@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## Futuro programador de software 
+## "Future software programmer" 
 ## fullstack developer
 
 - 👨‍💻. Currently, I am working with my team on an e-commerce project..
